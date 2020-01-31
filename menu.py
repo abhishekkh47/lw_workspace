@@ -1,3 +1,2 @@
 print("Welcome")
-print("press 1")
-
+print("press 1 to say hii")
