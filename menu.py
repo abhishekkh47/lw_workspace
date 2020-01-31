@@ -1,3 +1,2 @@
-print("hii")
-print("This is your dev2 code")
-
+print("hey abhishek")
+print("This is your master code")
